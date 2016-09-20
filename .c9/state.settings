@@ -1,0 +1,17 @@
+{
+    "experiments": {
+        "@@enabled": true,
+        "@autosave": 0,
+        "@flat-dark": true,
+        "@git": false,
+        "@go_completion": 0,
+        "@mount": 0,
+        "@plugin-manager": null,
+        "@plugins": true,
+        "@sdk": true,
+        "@test": false
+    },
+    "installer": {
+        "json()": {}
+    }
+}
